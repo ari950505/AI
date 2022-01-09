@@ -1,5 +1,5 @@
 # AI
- Learn AI tech by code-presso courses 
+Take AI course from code.presso 
  
  URLs:
  
