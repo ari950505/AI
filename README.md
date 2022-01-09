@@ -1,5 +1,5 @@
 # AI
-Take AI course from code.presso 
+Take AI courses from code.presso 
  
  URLs:
  
